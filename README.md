@@ -1,4 +1,6 @@
-se# Getting Started with Create React App
+Hii, This is my first project using react. I made this while taking brad traversy's tutorial on youtube. To run this on your local machine please follow the steps below
+
+# Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
